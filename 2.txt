@@ -1,1 +1,6 @@
 firstMainChangesOf_2
+minorBugFixes_1
+minorBugFixes_2
+minorBugFixes_3
+minorBugFixes_4
+minorBugFixes_5
